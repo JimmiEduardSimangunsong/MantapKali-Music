@@ -11,3 +11,10 @@ Bahasa Pemrograman & Library yang dipakai :
 - CSS
 - Bootstrap
 
+# Nama Kelompok
+-Irfan Akbari Habibi 201401086
+- Cheliza Sriayu Simarsoit 201401097
+- Jimmi Eduard Simangunsong 201401106
+- Chindy Birgita Sihotang 201401111
+
+
